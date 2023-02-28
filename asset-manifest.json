@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/little-lemon-react/static/css/main.57a775d0.css",
+    "main.js": "/little-lemon-react/static/js/main.84e9c6f8.js",
+    "static/js/787.38180477.chunk.js": "/little-lemon-react/static/js/787.38180477.chunk.js",
+    "static/media/dark-restaurant.jpg": "/little-lemon-react/static/media/dark-restaurant.ae2d3cab2227c903f22c.jpg",
+    "static/media/table.jpg": "/little-lemon-react/static/media/table.a2e9e93345be0b8cb561.jpg",
+    "static/media/food.jpg": "/little-lemon-react/static/media/food.bc9ff2111aa33481ebbd.jpg",
+    "static/media/light-restaurant.jpg": "/little-lemon-react/static/media/light-restaurant.e91f85f71c516a1991d3.jpg",
+    "index.html": "/little-lemon-react/index.html",
+    "main.57a775d0.css.map": "/little-lemon-react/static/css/main.57a775d0.css.map",
+    "main.84e9c6f8.js.map": "/little-lemon-react/static/js/main.84e9c6f8.js.map",
+    "787.38180477.chunk.js.map": "/little-lemon-react/static/js/787.38180477.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57a775d0.css",
+    "static/js/main.84e9c6f8.js"
+  ]
+}
